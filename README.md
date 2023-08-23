@@ -52,5 +52,26 @@ substr(start, length)
 **Falsy value** <br/>
 A number 0, an empty string "", null, undefined, and NaN all become false. Because of that they are called “falsy” values.
 
-**bold** <br/>
+**switch statement** <br/>
+```js
+switch (expression) {
+    case game1: // run code
+    break;
+
+    case game2: // run code
+    break;
+
+    default: // do something
+    break;
+}
+```
+#### How to get users input?
+```js
+// trigger dialog
+let answer = prompt("Please enter your name")
+
+console.log(answer) // will show whatever name inserted
+```
+
+
 **bold** <br/>
