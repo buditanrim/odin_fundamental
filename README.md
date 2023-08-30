@@ -1,3 +1,9 @@
+# Git notes
+1. Always start with `git pull`
+2. 
+- Push
+
+
 # odin_fundamental
 
 There are three ways to declare a variable
